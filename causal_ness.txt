@@ -73,7 +73,7 @@ CorrectACauseB,CorrectBCauseA,pairid,varA,varB,dataset,groundtruth
 0,1,pair0073,CO2 emissions,Energy use,UNdata,<-
 1,1,pair0074,GNI per capita,Life expectancy,UNdata,->
 1,0,pair0075,Under-5 mortality rate,GNI per capita,UNdata,<-
-1,1,pair0076,Population growth,Food consumption growth,Food and Agriculture Organization of the United Nations, ->  
+1,1,pair0076,Population growth,Food consumption growth,Food and Agriculture Organization of the United Nations,->  
 1,1,pair0077,Temperature,Solar radiation,B. Janzing,<-
 1,1,pair0078,photosynthetic photon flux density,net ecosystem productivity,Moffat A.M.,->
 1,1,pair0079,Net Ecosystem Productivity,Diffuse photosynthetic photon flux density,Moffat A.M.,<-
@@ -93,14 +93,14 @@ CorrectACauseB,CorrectBCauseA,pairid,varA,varB,dataset,groundtruth
 1,1,pair0094,hour of day,temperature,S. Armagan Tarim,->
 1,1,pair0095,the hour of day in a region,the electricity load in a region,S. Armagan Tarim,->
 1,1,pair0096,the temperature in a region,the electricity load in a region,S. Armagan Tarim,->
-1,1,pair0097,a ball's speed at the beginning of a ball track,its speed at the end of the track,D. Janzing,  ->  
-1,1,pair0098,a ball's speed at the beginning of a ball track with an acceleration zone,a ball's speed at the end of the track,D. Janzing,  -> 
+1,1,pair0097,a ball's speed at the beginning of a ball track,its speed at the end of the track,D. Janzing,->  
+1,1,pair0098,a ball's speed at the beginning of a ball track with an acceleration zone,a ball's speed at the end of the track,D. Janzing,-> 
 1,0,pair0099,the social-economic status of a student's family,their language test score,"nlschools" dataset of R MASS package,<-
 1,1,pair0100,the cycle time of a CPU,its performance on a benchmark mix,"cpus" dataset of R MASS package,->
-1,1,pair0101,grey value of a pixel, brightness of the screen, D. Janzing,  ->
-1,1,pair0102,the initial position of the ball in a ball track,the time interval between passing the first and the second light barrier of the track,  D. Janzing,  ->
-1,1,pair0104,the time interval between passing the first and the second light barrier of a ball track,the time interval between passing the third and the fourth light barrier of the track, D. Janzing,  -> 
-1,1,pair0105,the pixel vector of a patch of screen,the total brightness of the screen, D. Janzing,  -> 
-1,1,pair0106,the time required for one round by an electric toy locomotive,the input voltage of an electric toy locomotive,D. Janzing,  <-
-1,1,pair0107,the contrast of tilted Gabor patches,the accuracy of detection of tilt by participants,"Schuett, edited by D. Janzing", -> 
-0,1,pair0108,the time for 1/6 rotation of a Stirling engine,the temperature of its heat bath,  D. Janzing,  <- 
+1,1,pair0101,grey value of a pixel, brightness of the screen, D. Janzing,->
+1,1,pair0102,the initial position of the ball in a ball track,the time interval between passing the first and the second light barrier of the track,  D. Janzing,->
+1,1,pair0104,the time interval between passing the first and the second light barrier of a ball track,the time interval between passing the third and the fourth light barrier of the track, D. Janzing,-> 
+1,1,pair0105,the pixel vector of a patch of screen,the total brightness of the screen, D. Janzing,-> 
+1,1,pair0106,the time required for one round by an electric toy locomotive,the input voltage of an electric toy locomotive,D. Janzing,<-
+1,1,pair0107,the contrast of tilted Gabor patches,the accuracy of detection of tilt by participants,"Schuett, edited by D. Janzing",-> 
+0,1,pair0108,the time for 1/6 rotation of a Stirling engine,the temperature of its heat bath,  D. Janzing,<- 
